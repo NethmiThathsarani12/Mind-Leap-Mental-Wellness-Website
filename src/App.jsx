@@ -6,6 +6,7 @@ import Navbar from './component/Navbar'
 import Pricing from './component/Pricing'
 import Service from './component/Service'
 import Testimonial from './component/Testimonial'
+import WorkingStep from './component/WorkingStep'
 
 function App() {
 
@@ -16,6 +17,7 @@ function App() {
      <Hero/>
      <Service/>
      <About/>
+     <WorkingStep/>
      <Pricing/>
      <Testimonial/>
     {/* <h1 className='text-2xl font-normal'>MindLeap Mentall Wellness React Project Starter Files</h1> */}

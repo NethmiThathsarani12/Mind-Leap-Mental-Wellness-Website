@@ -7,6 +7,10 @@ export default {
   theme: {
     extend: {
 
+      backgroundImage: {
+        'working-img' : "url('/work-proceess.webp')"
+      },
+
       fontFamily: {
         'primary' : ["Poppins", "sans-serif"],
         'secondary' : ["Syne", "sans-serif"]
